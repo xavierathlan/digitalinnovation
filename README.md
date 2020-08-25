@@ -1,3 +1,3 @@
 # digitalinnovation
-# Meus exemplos de projetos criados em curso
+# Projetos criados em curso
 # Começando a criar meu portfolio
